@@ -1,0 +1,47 @@
+{
+  "data": {
+    "stageStatuses": [{
+      "appId": "ffe3d2eb-a2da-44f1-89b6-541bb5818984",
+      "envId": "8426fba9-2952-4f75-ab75-ef29ccbef0ad",
+      "version": {
+        "name": "1"
+      },
+      "status": "ok",
+      "completedAt": 1655535601760
+    }, {
+      "appId": "ffe3d2eb-a2da-44f1-89b6-541bb5818984",
+      "envId": "15619607-e591-4db8-86d4-807a8bf6ffc5",
+      "version": {
+        "name": "1"
+      },
+      "status": "ok",
+      "completedAt": 1655535788732
+    }, {
+      "appId": "ffe3d2eb-a2da-44f1-89b6-541bb5818984",
+      "envId": "a49d9eb8-1b47-4582-814d-1ba95147f501",
+      "version": {
+        "name": "1"
+      },
+      "status": "ok",
+      "completedAt": 1655535857372
+    }, {
+      "appId": "9803fc68-4640-4f07-a1bd-7685f922bc46",
+      "envId": "8426fba9-2952-4f75-ab75-ef29ccbef0ad",
+      "version": null,
+      "status": null,
+      "completedAt": null
+    }, {
+      "appId": "9803fc68-4640-4f07-a1bd-7685f922bc46",
+      "envId": "15619607-e591-4db8-86d4-807a8bf6ffc5",
+      "version": null,
+      "status": null,
+      "completedAt": null
+    }, {
+      "appId": "9803fc68-4640-4f07-a1bd-7685f922bc46",
+      "envId": "a49d9eb8-1b47-4582-814d-1ba95147f501",
+      "version": null,
+      "status": null,
+      "completedAt": null
+    }]
+  }
+}
